@@ -1,4 +1,4 @@
-package piscine
+package main // piscine
 
 func ConvertBase(nbr, baseFrom, baseTo string) string {
 	idx := 0
